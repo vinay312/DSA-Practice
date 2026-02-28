@@ -1,5 +1,15 @@
 [
   {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "title_slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
