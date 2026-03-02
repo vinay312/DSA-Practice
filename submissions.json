@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
