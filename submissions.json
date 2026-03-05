@@ -1,5 +1,14 @@
 [
   {
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
