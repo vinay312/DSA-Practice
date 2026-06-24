@@ -29,6 +29,19 @@
     ]
   },
   {
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bubble Sort",
+      "Quicksort",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 136,
     "title": "Single Number",
     "title_slug": "single-number",
