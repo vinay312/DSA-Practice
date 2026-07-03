@@ -39,6 +39,16 @@
     ]
   },
   {
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
