@@ -8,6 +8,7 @@
 |---| ----- | ---------- | ------ |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | `Array` `Two Pointers` |
