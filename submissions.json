@@ -140,6 +140,16 @@
     ]
   },
   {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 229,
     "title": "Majority Element II",
     "title_slug": "majority-element-ii",
