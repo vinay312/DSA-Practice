@@ -192,6 +192,16 @@
     ]
   },
   {
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 1021,
     "title": "Remove Outermost Parentheses",
     "title_slug": "remove-outermost-parentheses",
