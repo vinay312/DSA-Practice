@@ -23,6 +23,7 @@
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Hash Table` `Sorting` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
+| 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
