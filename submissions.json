@@ -238,6 +238,17 @@
     ]
   },
   {
+    "id": 1614,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "title_slug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Bracket Sequences",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
