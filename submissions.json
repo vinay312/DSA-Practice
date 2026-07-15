@@ -218,6 +218,16 @@
     ]
   },
   {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "title_slug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",
