@@ -183,6 +183,17 @@
     ]
   },
   {
+    "id": 231,
+    "title": "Power of Two",
+    "title_slug": "power-of-two",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 237,
     "title": "Delete Node in a Linked List",
     "title_slug": "delete-node-in-a-linked-list",
