@@ -102,6 +102,16 @@
     ]
   },
   {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 75,
     "title": "Sort Colors",
     "title_slug": "sort-colors",
