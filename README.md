@@ -19,6 +19,7 @@
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Bubble Sort` `Quicksort` `Sorting` `Two Pointers` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | `String` `Two Pointers` |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
