@@ -500,6 +500,16 @@
     ]
   },
   {
+    "id": 1922,
+    "title": "Count Good Numbers",
+    "title_slug": "count-good-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 2095,
     "title": "Delete the Middle Node of a Linked List",
     "title_slug": "delete-the-middle-node-of-a-linked-list",
