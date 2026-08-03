@@ -417,6 +417,18 @@
     ]
   },
   {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 540,
     "title": "Single Element in a Sorted Array",
     "title_slug": "single-element-in-a-sorted-array",
