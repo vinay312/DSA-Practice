@@ -82,6 +82,18 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bracket Sequences",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
