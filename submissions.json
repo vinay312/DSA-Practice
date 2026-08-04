@@ -574,5 +574,16 @@
       "Simulation",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3731,
+    "title": "Find Missing Elements",
+    "title_slug": "find-missing-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]
