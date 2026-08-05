@@ -441,6 +441,15 @@
     ]
   },
   {
+    "id": 520,
+    "title": "Detect Capital",
+    "title_slug": "detect-capital",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 540,
     "title": "Single Element in a Sorted Array",
     "title_slug": "single-element-in-a-sorted-array",
