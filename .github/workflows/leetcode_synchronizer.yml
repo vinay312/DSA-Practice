@@ -1,0 +1,15 @@
+name: LeetCode Synchronizer
+on:
+  workflow_dispatch:        # lets you trigger it manually
+  schedule:
+    - cron: '0 */6 * * *'   # optional: auto-runs every 6 hours
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run LeetCode Synchronizer
+        uses: dos-m0nk3y/LeetCode-Synchronizer@v1.1.0
+        with:
+          GITHUB_TOKEN: ${{ github.token }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
