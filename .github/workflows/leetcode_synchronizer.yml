@@ -1,8 +1,8 @@
 name: LeetCode Synchronizer
 on:
-  workflow_dispatch:        # lets you trigger it manually
+  workflow_dispatch:        #trigger it manually
   schedule:
-    - cron: '0 */6 * * *'   # optional: auto-runs every 6 hours
+    - cron: '0 */3 * * *'   # auto-runs every 3 hours
 jobs:
   build:
     runs-on: ubuntu-latest
