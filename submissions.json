@@ -416,6 +416,17 @@
     ]
   },
   {
+    "id": 415,
+    "title": "Add Strings",
+    "title_slug": "add-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 451,
     "title": "Sort Characters By Frequency",
     "title_slug": "sort-characters-by-frequency",
