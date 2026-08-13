@@ -555,6 +555,15 @@
     ]
   },
   {
+    "id": 1431,
+    "title": "Kids With the Greatest Number of Candies",
+    "title_slug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1464,
     "title": "Maximum Product of Two Elements in an Array",
     "title_slug": "maximum-product-of-two-elements-in-an-array",
