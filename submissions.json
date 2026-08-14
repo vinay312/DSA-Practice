@@ -595,6 +595,16 @@
     ]
   },
   {
+    "id": 1822,
+    "title": "Sign of the Product of an Array",
+    "title_slug": "sign-of-the-product-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1903,
     "title": "Largest Odd Number in String",
     "title_slug": "largest-odd-number-in-string",

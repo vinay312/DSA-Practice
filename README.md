@@ -62,6 +62,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | `Array` `Math` |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | `Greedy` `Math` `String` |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | Medium | `Math` `Recursion` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
