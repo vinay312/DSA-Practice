@@ -491,6 +491,16 @@
     ]
   },
   {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "title_slug": "can-place-flowers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 628,
     "title": "Maximum Product of Three Numbers",
     "title_slug": "maximum-product-of-three-numbers",
