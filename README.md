@@ -59,6 +59,7 @@
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
+| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | `Array` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
