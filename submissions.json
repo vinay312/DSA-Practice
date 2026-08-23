@@ -195,6 +195,18 @@
     ]
   },
   {
+    "id": 67,
+    "title": "Add Binary",
+    "title_slug": "add-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 75,
     "title": "Sort Colors",
     "title_slug": "sort-colors",
