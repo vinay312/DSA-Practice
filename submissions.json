@@ -739,6 +739,16 @@
     ]
   },
   {
+    "id": 3069,
+    "title": "Distribute Elements Into Two Arrays I",
+    "title_slug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3345,
     "title": "Smallest Divisible Digit Product I",
     "title_slug": "smallest-divisible-digit-product-i",
