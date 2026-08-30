@@ -782,6 +782,16 @@
     ]
   },
   {
+    "id": 3536,
+    "title": "Maximum Product of Two Digits",
+    "title_slug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
