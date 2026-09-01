@@ -740,6 +740,16 @@
     ]
   },
   {
+    "id": 2169,
+    "title": "Count Operations to Obtain Zero",
+    "title_slug": "count-operations-to-obtain-zero",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2220,
     "title": "Minimum Bit Flips to Convert Number",
     "title_slug": "minimum-bit-flips-to-convert-number",
