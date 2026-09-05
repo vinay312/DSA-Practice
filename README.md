@@ -1,6 +1,5 @@
 # LeetCode Submissions
 
-> Auto-generated with [LeetCode Synchronizer](https://github.com/dos-m0nk3y/LeetCode-Synchronizer)
 
 ## Contents
 
