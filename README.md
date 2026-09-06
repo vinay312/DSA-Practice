@@ -89,3 +89,23 @@
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | Easy | `Array` `Hash Table` `Sorting` |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | Easy | `Array` `Math` |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
+<!---LeetCode Topics End-->
