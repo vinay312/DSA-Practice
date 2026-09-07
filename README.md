@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vinay312/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vinay312/DSA-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
