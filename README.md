@@ -116,4 +116,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vinay312/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/vinay312/DSA-Practice/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
