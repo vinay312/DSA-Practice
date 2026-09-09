@@ -120,4 +120,5 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/vinay312/DSA-Practice/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/vinay312/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
