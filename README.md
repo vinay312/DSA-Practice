@@ -95,6 +95,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vinay312/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -124,4 +125,12 @@
 | ------- |
 | [3870-count-commas-in-range](https://github.com/vinay312/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vinay312/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
