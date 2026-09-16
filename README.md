@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vinay312/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0367-valid-perfect-square](https://github.com/vinay312/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [3870-count-commas-in-range](https://github.com/vinay312/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vinay312/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vinay312/DSA-Practice/tree/master/0735-asteroid-collision) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/vinay312/DSA-Practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
