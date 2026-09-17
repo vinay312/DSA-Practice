@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/vinay312/DSA-Practice/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/vinay312/DSA-Practice/tree/master/0367-valid-perfect-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vinay312/DSA-Practice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
