@@ -148,10 +148,12 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vinay312/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vinay312/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/vinay312/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
