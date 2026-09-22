@@ -104,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -148,6 +149,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vinay312/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vinay312/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vinay312/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
