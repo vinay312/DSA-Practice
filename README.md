@@ -181,4 +181,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vinay312/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
